@@ -11,7 +11,7 @@
 @implementation MCEasyRecord
 
 + (void)recordLog {
-    NSLog(@"MCEasyRecord -- recordLog");
+    NSLog(@"MCEasyRecord -- Lottie");
 }
 
 @end
